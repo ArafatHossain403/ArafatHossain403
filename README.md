@@ -1,9 +1,9 @@
 # Hi there,I'm  Arafat Hossain 👋
 
-### ⭐  Currently I am a Third year CS student & highly passionate self Learner!!
+### ⭐  Currently I am a Third year CSE student & highly passionate self Learner!!
 
 - 🔭 I’m currently working on StudentAdminPortal.API
-- 🌱 I’m currently learning .Net Frameworks. 
+- 🌱 I’m currently learning .Net Framework,Angular Framework. 
 - 📫 How to reach me **arafathossainsat@gmail.com**
 - 👯 I’m looking to collaborate with other self learners
 

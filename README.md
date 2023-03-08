@@ -3,7 +3,7 @@
 ### ⭐  Currently I am a Third year CSE student & highly passionate self Learner!!
 
 - 🔭 I’m currently working on StudentAdminPortal.API
-- 🌱 I’m currently learning .Net Framework,Angular Framework. 
+- 🌱 I’m currently learning Javascript,React,Node js,Express js,Mongo DB. 
 - 📫 How to reach me **arafathossainsat@gmail.com**
 - 👯 I’m looking to collaborate with other self learners
 

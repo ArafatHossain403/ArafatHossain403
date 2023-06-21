@@ -2,7 +2,7 @@
 
 ### ⭐  Currently I am a Fourth year CSE student & highly passionate self Learner!!
 
-- 🔭 I’m currently working on StudentAdminPortal.API
+- 🔭 I’m currently working on MERN stack development.
 - 🌱 I’m currently learning Javascript,React,Node js,Express js,Mongo DB. 
 - 📫 How to reach me **arafathossainsat@gmail.com**
 - 👯 I’m looking to collaborate with other self learners

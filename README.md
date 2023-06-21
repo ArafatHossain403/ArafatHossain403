@@ -1,6 +1,6 @@
 # Hi there,I'm  Arafat Hossain 👋
 
-### ⭐  Currently I am a Third year CSE student & highly passionate self Learner!!
+### ⭐  Currently I am a Fourth year CSE student & highly passionate self Learner!!
 
 - 🔭 I’m currently working on StudentAdminPortal.API
 - 🌱 I’m currently learning Javascript,React,Node js,Express js,Mongo DB. 

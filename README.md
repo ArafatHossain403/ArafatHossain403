@@ -1,6 +1,6 @@
 # Hi there,I'm  Arafat Hossain 👋
 
-### ⭐  Currently I am a graduate from CSE  & highly passionate self Learner!!
+### ⭐  Currently I am a software engineer & highly passionate self Learner!!
 
 - 🔭 I’m currently working on MERN stack development.
 - 🌱 I’m currently learning Javascript,React,Node js,Express js,Mongo DB. 
